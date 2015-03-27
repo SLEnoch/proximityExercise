@@ -1,0 +1,7 @@
+1. By setting the box-sizing property to border-box the div size became a smaller width.
+2. By floating both divs right they move to the right side of the screen and are side-by-side (Div2 then Div1)
+3. By floating both divs right they move to the left side of the screen and are side-by-side (Div1 then Div2)
+4. By making by browser less than 600px in size, the columns did not change.
+5. By floating Div1 left and Div2 right, they both move accordingly to opposite sides of the page.
+6. By changing the size (width_ of Div1 to 2,000px the box extends right, and the text adjusts to the new container.
+7. After changing the width to a percentage value, when resizing the browser the content changes with it.
